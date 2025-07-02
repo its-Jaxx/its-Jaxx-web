@@ -13,7 +13,7 @@ const projects = [
     id: "firepit",
     title: "Firepit",
     description: "A Hypixel Pit mod made for Forge 1.8.9",
-    longDescription: "This reposity contains the source code as well as a downloadable Firepit.jar file to allow you to automate AFK:ing in The Pit on Hypixel. (This repository is currently private due to being a work in progress)",
+    longDescription: "This reposity contains the source code as well as a downloadable FirePit.jar file to allow you to automate AFK:ing in The Pit on Hypixel.",
     features: [
       "Automatic Pit rejoin",
       "Event notifier",
@@ -22,7 +22,7 @@ const projects = [
     ],
     link: "https://github.com/its-Jaxx/Firepit",
     fallbackStars: 0,
-    tags: ["The Pit", "Hypixel", "Java", "Mod", "WIP"]
+    tags: ["The Pit", "Hypixel", "Java", "Mod"]
   },
   {
     id: "duelsx",
