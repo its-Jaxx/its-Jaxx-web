@@ -1,1 +1,1 @@
-This website is only possible thanks to [5mukx](https://github.com/Whitecat18) and his [site repository](https://github.com/Whitecat18/5mukx-portfolio), most, if not all credit goes directly to him.
+Created to easily show off all my projects.

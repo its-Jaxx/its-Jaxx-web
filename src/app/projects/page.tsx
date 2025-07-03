@@ -40,11 +40,11 @@ const projects = [
   {
     id: "github-site",
     title: "My website",
-    description: "My website, mostly created by \"5mukx\"",
+    description: "Repository for this website",
     longDescription: "Contains all the source code for this website, check out the `README.md` file for a direct link to 5mukx's repo of this website.",
     link: "https://github.com/its-Jaxx/its-Jaxx.",
     fallbackStars: 0,
-    tags: ["Website", "5mukx"]
+    tags: ["Website"]
   }
 ];
 
