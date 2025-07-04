@@ -41,7 +41,7 @@ const projects = [
     id: "github-site",
     title: "My website",
     description: "Repository for this website",
-    longDescription: "Contains all the source code for this website, check out the `README.md` file for a direct link to 5mukx's repo of this website.",
+    longDescription: "Contains all the source code for this website.",
     link: "https://github.com/its-Jaxx/its-Jaxx-web",
     fallbackStars: 0,
     tags: ["Website"]
