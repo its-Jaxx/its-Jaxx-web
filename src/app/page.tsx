@@ -145,15 +145,15 @@ export default function Home() {
             {/* GitHub Site */}
             <motion.div variants={item} className="group">
               <MotionLink
-                href="/projects#github-site"
+                href="/projects#widget-creator"
                 className="block p-6 bg-secondary/30 rounded-lg border border-border hover:border-purple-500/50 transition-all duration-300"
                 whileHover={{ y: -5 }}
               >
                 <h3 className="text-xl font-bold mb-2 group-hover:text-purple-400 transition-colors">
-                  Website
+                  Widget Creator
                 </h3>
                 <p className="text-muted-foreground mb-4">
-                  More information about this website
+                  Generate music widgets
                 </p>
                 <div className="flex items-center text-sm text-purple-400">
                   Learn more <ArrowRight className="ml-1 h-3 w-3" />

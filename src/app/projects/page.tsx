@@ -38,6 +38,19 @@ const projects = [
     tags: ["Duels", "Hacking", "Hypixel", "Java", "Mod", "WIP"]
   },
   {
+    id: "widget-creator",
+    title: "Widget Creator",
+    description: "A website designed to generate widgets from music.",
+    longDescription: "Widget Creator is designed to generate widgets from spotify song links, along with making your own music widget. (This repository is currently private due to being a work in progress)",
+    features: [
+      "Customization",
+      "Spotify API"
+    ],
+    link: "https://github.com/its-Jaxx/widget-creator",
+    fallbackStars: 0,
+    tags: ["Widget", "Music", "Customize", "Website", "Generation", "WIP"]
+  },
+  {
     id: "github-site",
     title: "My website",
     description: "Repository for this website",
