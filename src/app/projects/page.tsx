@@ -20,9 +20,9 @@ const projects = [
       "Auto \"Quick-Maths\"",
       "Webhook Integration"
     ],
-    link: "https://github.com/its-Jaxx/Firepit",
+    link: "https://github.com/its-Jaxx/Firepit/releases/tag/V1.0.0",
     fallbackStars: 0,
-    tags: ["The Pit", "Hypixel", "Java", "Mod"]
+    tags: ["The Pit", "Hypixel", "Java", "Forge", "Mod"]
   },
   {
     id: "duelsx",
@@ -31,11 +31,13 @@ const projects = [
     longDescription: "This repository contains the source code as well as a downloadable DuelsX.jar file to allow you to automate battling in duels on Hypixel. (This repository is currently private due to being a work in progress)",
     features: [
       "Automatic fighting",
-      "Webhook Integration"
+      "Webhook Integration",
+      "Human-like movements",
+      "QOL features"
     ],
     link: "https://github.com/its-Jaxx/duels-x",
     fallbackStars: 0,
-    tags: ["Duels", "Hacking", "Hypixel", "Java", "Mod", "WIP"]
+    tags: ["Duels", "Hacking", "Hypixel", "Java", "Kotlin", "Mod", "WIP"]
   },
   {
     id: "widget-creator",
@@ -44,7 +46,8 @@ const projects = [
     longDescription: "Widget Creator is designed to generate widgets from spotify song links, along with making your own music widget. (This repository is currently private due to being a work in progress)",
     features: [
       "Customization",
-      "Spotify API"
+      "Spotify API",
+      "Open source"
     ],
     link: "https://github.com/its-Jaxx/widget-creator",
     fallbackStars: 0,
@@ -55,9 +58,13 @@ const projects = [
     title: "My website",
     description: "Repository for this website",
     longDescription: "Contains all the source code for this website.",
+    features: [
+      "Free for everyone to use",
+      "Educational"
+    ],
     link: "https://github.com/its-Jaxx/its-Jaxx-web",
     fallbackStars: 0,
-    tags: ["Website"]
+    tags: ["Website", "Open-Source", "Typescript", "Projects"]
   }
 ];
 
