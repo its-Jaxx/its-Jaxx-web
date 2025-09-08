@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "aftxrlifx | Game Breaker | Java Modder",
   description: "Portfolio of aftxrlifx - Game Breaker, Java Modder.",
   keywords: ["jaxx", "java", "kotlin", "python", "modding"],
-  authors: [{ name: "aftxrlifx", url: "https://discord.com/users/922843169480122388/" }],
+  authors: [{ name: "aftxrlifx", url: "https://discord.com/users/849394277623922738/" }],
   creator: "aftxrlifx",
   publisher: "aftxrlifx",
   robots: "index, follow",

@@ -24,7 +24,7 @@ export default function Footer() {
               <Github className="h-5 w-5" />
             </Link>
             <Link
-              href="https://discord.com/users/922843169480122388/"
+              href="https://discord.com/users/849394277623922738/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
